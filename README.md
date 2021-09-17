@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KernelID a programmer web developer jr :)
 - 👀 I’m interested in the programming
 - 🌱 I’m currently learning random stories
+- I like the pizza ;u
 
 And nothing more.....
 
